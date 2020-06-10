@@ -1,1 +1,1 @@
-# simple swipcontainer with pureJS
+# simple swipContainer with pureJS
